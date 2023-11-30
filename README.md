@@ -1,4 +1,4 @@
-![MasterHead](https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg)
+![MasterHead]([https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg](https://media.licdn.com/dms/image/C4D16AQHIVlrGswtPPA/profile-displaybackgroundimage-shrink_200_800/0/1556761882662?e=2147483647&v=beta&t=LNBHtjZ_OdWQhRFx_3_dYq27NM-GJvqisNsM-7UkJDk))
 <h1 align="center">Hi 👋, I'm Pratiksha Gote</h1>
 <h3 align="center">A passionate Full Stack Python Developer with a strong passion for designing and developing visually appealing websites. Proficient in Python and experienced in utilizing web development technologies such as HTML, CSS, JavaScript, Django, MySQL.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
